@@ -1,0 +1,21 @@
+row nbr, title, author, price, links
+1, Coding for Absolute Beginners and Cybersecurity: 5 Books in 1, Alan Grid, $21.70, https://www.audible.com//pd/Coding-for-Absolute-Beginners-and-Cybersecurity-5-Books-in-1-Audiobook/B09BF3QF63
+2, Python Programming: 3 Books in 1, Ryan Turner, $17.35, https://www.audible.com//pd/Python-Programming-3-Books-in-1-Audiobook/B07MNTHNFH
+3, Clean Code, Robert C. Martin, $39.99, https://www.audible.com//pd/Clean-Code-Audiobook/B08X7KL3TF
+4, Computer Programming: This Book Includes: SQL, Linux, Java, Python, C#, Arduino, C# For Intermediates, Arduino For Intermediates Learn Any Computer Language In One Day Step by Step (#2022 Version), Steve Tudor, $26.05, https://www.audible.com//pd/Computer-Programming-Learn-Any-Computer-Language-in-One-Day-Step-by-Step-2020-Version-Audiobook/B08DRQVJQX
+5, Python for Beginners: 2 Books in 1, Programming Languages Academy, $17.35, https://www.audible.com//pd/Python-for-Beginners-2-Books-in-1-Audiobook/B084VHT3YB
+6, The Ultimate Guide to ChatGPT, Percival C. Verena, $14.95, https://www.audible.com//pd/The-Ultimate-Guide-to-ChatGPT-Audiobook/B0C7S56DDC
+7, R Programming: 3 Books in 1, Andy Vickler, $21.70, https://www.audible.com//pd/R-Programming-3-Books-in-1-Audiobook/B0B6Y1SQXT
+8, Software Engineering at Google, Titus Winters, $49.99, https://www.audible.com//pd/Software-Engineering-at-Google-Audiobook/B08VLS9Y95
+9, Building Microservices, Sam Newman, $49.99, https://www.audible.com//pd/Building-Microservices-Audiobook/B09RTPV36C
+10, Coders at Work, Peter Seibel, $49.99, https://www.audible.com//pd/Coders-at-Work-Audiobook/B092R95XWB
+11, Computer Programming Crash Course: 7 Books in 1, Julian James McKinnon, $26.05, https://www.audible.com//pd/Computer-Programming-Crash-Course-7-Books-in-1-Audiobook/B08NTWY4CX
+12, Success Secrets, James Adler, $6.95, https://www.audible.com//pd/Success-Secrets-Audiobook/B00XIM6SL2
+13, NLP: The Essential Handbook for Business, Jeremy Lazarus, $19.59, https://www.audible.com//pd/NLP-The-Essential-Handbook-for-Business-Audiobook/B00OVB7RS2
+14, Dark Psychology: This Book Includes: Manipulation and Dark Psychology; Persuasion and Dark Psychology; Dark NLP, Jonathan Mind, $21.70, https://www.audible.com//pd/Dark-Psychology-This-Book-Includes-Manipulation-and-Dark-Psychology-Persuasion-and-Dark-Psychology-Dark-NLP-Audiobook/B07ZDGNY66
+15, JavaScript: 3 Books in 1, Andy Vickler, $21.70, https://www.audible.com//pd/JavaScript-3-Books-in-1-Audiobook/B0953NS6V4
+16, Computer Programming: JavaScript, Python, HTML, SQL, CSS, Willam Alvin Newton, $21.70, https://www.audible.com//pd/Computer-Programming-JavaScript-Python-HTML-SQL-CSS-Audiobook/B07VGWYTP7
+17, Learn Python Quickly, Code Quickly, $17.35, https://www.audible.com//pd/Learn-Python-Quickly-Audiobook/B0887679H8
+18, NLP Self Mastery: 12 Book Mega Bundle, Modern Psychology Publishing, $21.70, https://www.audible.com//pd/NLP-Self-Mastery-12-Book-Mega-Bundle-Audiobook/B07DRQWQL1
+19, Communication Skills Training Series: 7 Books in 1, James W. Williams, $26.05, https://www.audible.com//pd/Communication-Skills-Training-Series-7-Books-in-1-Audiobook/B0973L243G
+20, Speed Read Anything, Peter Hollins, $6.04, https://www.audible.com//pd/Speed-Read-Anything-Audiobook/B0933ND8C2
