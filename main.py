@@ -45,7 +45,7 @@ with open("programming_audiobooks.txt", mode="w") as file:
     for _ in range(len(titles) + 1):
         if n == -1:
             # headings
-            file.write('row nbr, title, author, price, links\n')
+            file.write('row nbr, title, author, price, link\n')
         else:
             # data
             file.write(f'{n + 1}, {titles[n]}, {authors[n]}, {prices[n]}, {links[n]}\n')
